@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @idealTopics
 - 👀 I’m interested in learning
-- 🌱 I’m currently learning Web, python, React, gaming
+- 🌱 I’m currently learning about full-stack, python, React, gaming (Unity)
 - 💞️ I’m looking to collaborate, who isn't
 - 📫 How to reach me ...
 
